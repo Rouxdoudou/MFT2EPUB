@@ -1,10 +1,3 @@
-# Hello-world
-Test de repository en suivant le tutoriel
+Projet de transformation du Manuel de Formation Technique (MFT) du format pdf vers le format ePub en vue d'utiliser les possibilités du format, de minimiser les efforts lors des modifications, de donner une cohérence sur la forme en appliquant la charte graphique de la Fédé, d'optimiser la place et les fiches.
 
-Ces modifications ont pour but de voir comment fonctionne le système des modifications, branches, commits et autres joyeusetés...
-@ plouf,
-Doudou
-
-
-PS: Quelques modifications supplémentaires pour voir les effets de la fenêtre en bas.
-Test Push
+@ plouf, Doudou
